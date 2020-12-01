@@ -32,6 +32,9 @@ header h2 {
 }
 .navbar {
     background-color: rgb(48, 48, 245);
+    border-width: 5px 0px;
+    border-color: orange;
+    border-style: solid;
 }
 
 .tab-content {
