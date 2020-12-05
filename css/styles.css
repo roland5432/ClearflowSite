@@ -18,7 +18,7 @@ header h2 {
 }
 
 .site-footer{
-    background-image: linear-gradient(#c8c9ff, white);
+    background-image: linear-gradient(orange, white);
     padding: 20px 0;
 }
 
@@ -58,7 +58,7 @@ header h2 {
     list-style-type: none;
 }
 
-.verbageBorder {
+.contentBlock {
     background-color: rgb(250, 244, 230);
     border: 10px solid blue;
     padding: 20px;
@@ -67,20 +67,14 @@ header h2 {
     min-width: 250px;
 }
 
-.backgroundTruck {
-    background-image: url("/img/truckBackground.jpg");
-}
-
-.quoteTitle {
+h1 {
     padding-top: 40px;
-    color: white;
 }
 
-.bottomSpacing {
+.addressBlock {
     margin-top: 30px;
     margin-bottom: 100px;
-}
-
-.addressSpacing{
     padding: 100px 0;
 }
+
+
