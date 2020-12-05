@@ -80,3 +80,7 @@ header h2 {
     margin-top: 30px;
     margin-bottom: 100px;
 }
+
+.addressSpacing{
+    padding: 100px 0;
+}
