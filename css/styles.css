@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster|Open+Sans");
+
+
 body {
     font-family: "Open Sans", sans-serif;
 }
@@ -15,7 +18,7 @@ header h2 {
 }
 
 .site-footer{
-    background-image: linear-gradient(#CEC8FF, white);
+    background-image: linear-gradient(#c8c9ff, white);
     padding: 20px 0;
 }
 
@@ -31,7 +34,7 @@ header h2 {
     min-height: 200px;
 }
 .navbar {
-    background-color: rgb(48, 48, 245);
+    background-color: blue;
     border-width: 5px 0px;
     border-color: orange;
     border-style: solid;
@@ -49,4 +52,31 @@ header h2 {
 
 .carousel {
     border: solid #5637DD;
+}
+
+.footer-links {
+    list-style-type: none;
+}
+
+.verbageBorder {
+    background-color: rgb(250, 244, 230);
+    border: 10px solid blue;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    min-width: 250px;
+}
+
+.backgroundTruck {
+    background-image: url("/img/truckBackground.jpg");
+}
+
+.quoteTitle {
+    padding-top: 40px;
+    color: white;
+}
+
+.bottomSpacing {
+    margin-top: 30px;
+    margin-bottom: 100px;
 }
