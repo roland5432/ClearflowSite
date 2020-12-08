@@ -1,7 +1,7 @@
 {
-  "name": "clearflowsite",
+  "name": "Clearflowsite",
   "version": "1.0.0",
-  "description": "",
+  "description": "A business website to show available services from Clearflow Logistics",
   "main": "index.html",
   "scripts": {
     "lite": "lite-server",
